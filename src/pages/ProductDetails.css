@@ -1,0 +1,18 @@
+
+.color{
+  display: flex;
+}
+
+.rating{
+  display: flex;
+}
+.warranty{
+  display: flex;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.product_details{
+  background-color: white;
+}

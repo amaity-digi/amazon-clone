@@ -1,0 +1,55 @@
+{
+"products":[
+  {
+    "id": "101",
+    "title": "Samsung Galaxy S20 FE 5G (Cloud Mint, 8GB RAM, 128GB Storage)",
+    "price": 34990,
+    "rating": 4,
+    "color":"Blue",
+    "image": "https://m.media-amazon.com/images/I/812yohjGZ2L._SY741_.jpg",
+    "warranty":"1 Year",
+    "details":"5G Ready powered by Qualcomm Snapdragon 865 Octa-Core processor, 8GB RAM, 128GB internal memory expandable up to 1TB, Android 11.0 operating system and dual SIM.Triple Rear Camera Setup - 12MP (Dual Pixel) OIS F1.8 Wide Rear Camera + 8MP OIS Tele Camera + 12MP Ultra Wide | 30X Space Zoom, Single Take & Night Mode | 32MP F2.2 Front Punch Hole Camera 4500 mAh battery (Non -removable) with Super Fast Charging, FAst Wireless Charging & Finger Print sensor 5G Ready powered by Qualcomm Snapdragon 865 Octa-Core processor, 8GB RAM, 128GB internal memory expandable up to 1TB, Android 11.0 operating system and dual SIM"
+},
+{
+  "id": "104",
+  "title": "LG 190 L 4 Star Inverter Direct-Cool Single Door Refrigerator (GL-D201ASCY, Scarlet Charm)",
+  "price": 16690,
+  "rating": 3,
+  "color":"Scarlet Plumeria",
+  "image": "https://m.media-amazon.com/images/I/61PIMcFCsAL._SX569_.jpg",
+  "warranty":"Manufacturer warranty: 1 year on product, 10 years on compressor *T&C",
+  "details":"Smart inverter compressor: Unmatched performance, great savings and super silent operation Important note : This product is 5-star rated as per 2019 BEE rating and 4-star rated as per 2020 BEE rating Capacity 190 liters: Suitable for families with 2 to 3 members and bachelors,Energy rating 4 Star: High energy efficiency"
+},
+{
+  "id": "103",
+  "title": "Apple Watch SE (2nd Gen) GPS 44mm Midnight Aluminium Case with Midnight Sport Band",
+  "price": 31255,
+  "rating": 4,
+  "color":"Space Grey Aluminium Case with Midnight Sport Band",
+  "warranty":"1 Year",
+  "image": "https://m.media-amazon.com/images/I/71lG7br7k1L._SX679_.jpg",
+  "details": "Take calls and reply to texts, right from your wrist;Track your daily activity on Apple Watch and see your trends in the Fitness app on iPhone, Emergency SOS lets you call for help when you need it;Sync your favourite music and podcasts; Swimproof design;100% recycled aluminium cases available in three finishes, Compatible Devices: Smartphone; Included Components: Apple Watch, Band, 1m Magnetic Charging Cable"
+},
+{
+  "id": "102",
+  "title": "Apple 2020 MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard",
+  "price": 86990,
+  "rating": 5,
+   "color" : "Silver",
+  "warranty":"1 Year",
+  "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._AC_UY327_FMwebp_QL65_.jpg",
+   "details": "All-Day Battery Life Go longer than ever with up to 18 hours of battery life.Powerful Performance – Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power.Superfast Memory – 8GB of unified memory makes your entire system speedy and responsive. That way it can support tasks like memory-hogging multitab browsing and opening a huge graphic file quickly and easily."
+},
+{
+        "id": "122",
+        "title": "All new Echo Show 8 (2nd Gen, 2021 release)- Smart speaker with 8 HD screen, stereo sound & hands-free entertainment ",
+        "price": 10999,
+        "rating": 5,
+        "color" : "Black",
+        "warranty":"1 Year",
+        "image": "https://m.media-amazon.com/images/I/51C+FWhW9xL._AC_UY327_FMwebp_QL65_.jpg",
+        "details":"Echo Show 8 (2nd Gen) with Alexa is an upgrade of our best-selling smart speaker with screen and comes with an improved 13 MP camera which you can use to make video calls to contacts having the Alexa app or Echo Show devices. You can control Echo Show 8 using only your voice. Alexa speaks English and Hindi.Stay in frame during video calls: Make video calls with the upgraded 13 MP camera that pans and zooms automatically to keep you in frame. Simply ask Alexa to call your friends and family who have the Alexa app or Echo Show devices. Use drop-in feature to check on your kids or parents – just like an intercom."
+}
+
+]
+}
